@@ -3,3 +3,4 @@
 =app-text/po4a-0.47 **          # Unescaped {
 =dev-perl/Config-Any-0.290.0 ** # inc, 613358
 =dev-perl/Devel-Symdump-2.180.0 ** # inc, 613362
+=dev-perl/Carp-Clan-6.60.0 **   # Unescaped { , 614206
