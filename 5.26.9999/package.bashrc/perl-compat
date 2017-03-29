@@ -4,6 +4,7 @@
 =app-text/po4a-0.47                         perl-dot-in-inc
 =dev-perl/Authen-SASL-2.160.0-r1            perl-dot-in-inc
 =dev-perl/Net-SSLeay-1.800.0                perl-dot-in-inc
+=dev-perl/Sub-Uplevel-0.250.0               perl-dot-in-inc
 =dev-perl/Unicode-EastAsianWidth-1.330.0-r1 perl-dot-in-inc
 =dev-perl/libintl-perl-1.240.0              perl-dot-in-inc
 
