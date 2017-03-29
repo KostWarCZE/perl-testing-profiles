@@ -1,0 +1,37 @@
+# This is a list of packages that are known broken under testing
+# so that they're not pointlessly retested.
+=app-arch/libarchive-3.2.2-r1 no-testing
+=app-crypt/gnupg-2.1.18 no-testing
+=app-text/po4a-0.45-r3 no-testing
+=dev-libs/check-0.9.11 no-testing
+=dev-libs/glib-2.48.2 no-testing
+=dev-python/Babel-2.3.4 no-testing
+=dev-python/coverage-4.2 no-testing
+=dev-python/distlib-0.2.1 no-testing
+=dev-python/docutils-0.12 no-testing
+=dev-python/mako-1.0.3 no-testing
+=dev-python/nose-1.3.7-r1 no-testing
+=dev-python/py-1.4.30 no-testing
+=dev-python/pycurl-7.43.0 no-testing
+=dev-python/pyopenssl-16.2.0 no-testing
+=dev-python/pytest-3.0.3 no-testing
+=dev-python/pytest-xdist-1.15.0 no-testing
+=dev-python/pytz-2016.3 no-testing
+=dev-python/sphinx-1.3.1-r2 no-testing
+=dev-python/twisted-core-13.2.0 no-testing
+=dev-scheme/guile-1.8.8-r3 no-testing
+=dev-util/dejagnu-1.4.4-r3 no-testing
+=dev-vcs/mercurial-3.8.4 no-testing
+=net-misc/rsync-3.1.2 no-testing
+=net-misc/wget-1.19.1-r1 no-testing
+=sys-apps/coreutils-8.25 no-testing
+=sys-apps/keyutils-1.5.9-r1 no-testing
+=sys-apps/man-db-2.7.6.1-r2 no-testing
+=sys-apps/texinfo-6.1 no-testing
+=sys-apps/util-linux-2.28.2 no-testing
+=sys-devel/automake-1.15-r1 no-testing
+=sys-devel/binutils-2.26.1 no-testing
+=sys-devel/llvm-3.7.1-r3 no-testing
+=sys-devel/make-4.2.1 no-testing
+=sys-libs/glibc-2.23-r3 no-testing
+sys-libs/db no-testing

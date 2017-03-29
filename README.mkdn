@@ -1,0 +1,18 @@
+### Usage
+
+```bash
+  cd /etc/portage
+  mkdir -p 3rd-party
+  cd 3rd-party
+  git clone https://github.com/gentoo-perl/perl-testing-profiles
+  cd /etc/portage
+  mkdir profile
+  cd profile
+  for i in bashrc package.{accept_keywords,bashrc,mask,provided,use}; do
+    (
+      mkdir -p "${i}" && \
+        cd "${i}"     && \
+        cp -s -t .  ../../3rd-party/perl-testing-profiles/5.26.9999/"${i}"/*
+    )
+  done
+```
