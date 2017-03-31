@@ -4,3 +4,7 @@
 =dev-perl/Config-Any-0.290.0 ** # inc, 613358
 =dev-perl/Devel-Symdump-2.180.0 ** # inc, 613362
 =dev-perl/Carp-Clan-6.60.0 **   # Unescaped { , 614206
+=dev-perl/Net-DNS-1.90.0 **  # inc, 613720
+=dev-perl/Digest-GOST-0.60.0 ** # Net-DNS
+=dev-perl/Crypt-OpenSSL-DSA-0.150.0-r1 ** # Net-DNS
+=dev-perl/Net-DNS-SEC-1.20.0 ** # Net-DNS
