@@ -13,3 +13,5 @@
 =app-text/po4a-0.45-r3                      no-testing # Unescaped {
 =sys-devel/automake-1.15-r1                 no-testing
 =sys-devel/make-4.2.1                       no-testing # Unescaped {
+=dev-perl/Regexp-Common-2013031301.0.0      no-testing # Unescaped {
+

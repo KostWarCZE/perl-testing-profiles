@@ -8,11 +8,19 @@
   cd /etc/portage
   mkdir profile
   cd profile
-  for i in bashrc package.{accept_keywords,bashrc,mask,provided,use}; do
+  for i in package.{accept_keywords,mask,provided,use}; do
     (
       mkdir -p "${i}" && \
         cd "${i}"     && \
-        cp -s -t .  ../../3rd-party/perl-testing-profiles/5.26.9999/"${i}"/*
+        cp -s -t .  ../../3rd-party/perl-testing-profiles/5.26.9999/profile/"${i}"/*
+    )
+  done
+  cd ..
+  for i in env package.env; do
+    (
+      mkdir -p "${i}" && \
+        cd "${i}"     && \
+        cp -s -t .  ../3rd-party/perl-testing-profiles/5.26.9999/"${i}"/*
     )
   done
 ```
