@@ -1,3 +1,6 @@
+# Portage shouldn't be forcing a downgrade to an older perl!
+<dev-lang/perl-5.26
+
 # If portage tries to unmask one of these
 # Make sure there's a relevant perl-core/* first.
 # Otherwise, portage is being stupid and will coerce a downgrade
