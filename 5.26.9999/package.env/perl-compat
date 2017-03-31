@@ -3,6 +3,7 @@
 # NOTE: This can suppress detecting of real bugs at runtime!
 =app-text/po4a-0.47                         perl-dot-in-inc
 =dev-perl/Authen-SASL-2.160.0-r1            perl-dot-in-inc
+=dev-perl/CGI-Compile-0.210.0               perl-dot-in-inc
 =dev-perl/Digest-BubbleBabble-0.20.0-r1     perl-dot-in-inc
 =dev-perl/Data-FormValidator-4.850.0        perl-dot-in-inc
 =dev-perl/Module-Refresh-0.170.0-r1         perl-dot-in-inc
