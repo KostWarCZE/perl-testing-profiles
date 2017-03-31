@@ -10,6 +10,7 @@
 =dev-perl/Sub-Uplevel-0.250.0               perl-dot-in-inc
 =dev-perl/Test-TCP-2.170.0                  perl-dot-in-inc
 =dev-perl/Unicode-EastAsianWidth-1.330.0-r1 perl-dot-in-inc
+=dev-perl/asa-1.30.0                        perl-dot-in-inc
 =dev-perl/libintl-perl-1.240.0              perl-dot-in-inc
 
 # This is a list of packages that are known broken under testing
