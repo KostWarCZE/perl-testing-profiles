@@ -76,6 +76,7 @@
 <virtual/perl-Text-ParseWords-3.300.0-r999
 <virtual/perl-Text-Tabs+Wrap-2013.52.300-r999
 <virtual/perl-Tie-RefHash-1.390.0-r999
+<virtual/perl-Time-HiRes-1.974.100-r999
 <virtual/perl-Time-Local-1.250.0-r999
 <virtual/perl-Time-Piece-1.310.0-r999
 <virtual/perl-Unicode-Collate-1.190.0-r999
@@ -165,6 +166,7 @@
 >virtual/perl-Text-ParseWords-3.300.0-r999
 >virtual/perl-Text-Tabs+Wrap-2013.52.300-r999
 >virtual/perl-Tie-RefHash-1.390.0-r999
+>virtual/perl-Time-HiRes-1.974.100-r999
 >virtual/perl-Time-Local-1.250.0-r999
 >virtual/perl-Time-Piece-1.310.0-r999
 >virtual/perl-Unicode-Collate-1.190.0-r999
@@ -255,6 +257,7 @@ perl-core/Text-Balanced
 perl-core/Text-ParseWords
 perl-core/Text-Tabs+Wrap
 perl-core/Tie-RefHash
+perl-core/Time-HiRes
 perl-core/Time-Local
 perl-core/Time-Piece
 perl-core/Unicode-Collate
