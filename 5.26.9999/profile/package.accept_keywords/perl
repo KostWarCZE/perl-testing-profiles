@@ -27,3 +27,4 @@
 =dev-perl/MRO-Compat-0.130.0 ** # inc, 613870
 =dev-perl/Archive-Zip-1.590.0 ** # inc, 614430
 =dev-perl/File-Remove-1.570.0 ** # inc, 614438
+=dev-perl/Module-ScanDeps-1.230.0 ** # inc, 614450
