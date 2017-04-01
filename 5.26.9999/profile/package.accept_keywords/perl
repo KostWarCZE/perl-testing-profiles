@@ -11,3 +11,4 @@
 =dev-perl/Net-DNS-SEC-1.20.0 ** # Net-DNS
 =dev-perl/Test-Deep-1.126.0 ** # inc, 614340
 =dev-perl/Filter-1.570.0 ** # inc, 614350
+=dev-perl/Class-Inspector-1.310.0 ** # inc, 614394
