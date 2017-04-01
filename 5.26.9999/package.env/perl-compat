@@ -17,6 +17,7 @@
 =dev-perl/Unicode-EastAsianWidth-1.330.0-r1 perl-dot-in-inc
 =dev-perl/asa-1.30.0                        perl-dot-in-inc
 =dev-perl/libintl-perl-1.240.0              perl-dot-in-inc
+=dev-perl/prefork-1.40.0-r1                 perl-dot-in-inc
 
 # This is a list of packages that are known broken under testing
 # for perl so that they're not pointlessly retested.
