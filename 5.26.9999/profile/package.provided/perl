@@ -18,6 +18,7 @@ virtual/perl-Digest-SHA-5.960.0-r999
 virtual/perl-Encode-2.880.0-r999
 virtual/perl-Exporter-5.720.0-r999
 virtual/perl-ExtUtils-CBuilder-0.280.225-r999
+virtual/perl-ExtUtils-Command-7.240.0-r999
 virtual/perl-ExtUtils-Constant-0.230.0-r999
 virtual/perl-ExtUtils-Install-2.40.0-r999
 virtual/perl-ExtUtils-MakeMaker-7.240.0-r999

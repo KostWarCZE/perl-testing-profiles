@@ -24,6 +24,7 @@
 <virtual/perl-Encode-2.880.0-r999
 <virtual/perl-Exporter-5.720.0-r999
 <virtual/perl-ExtUtils-CBuilder-0.280.225-r999
+<virtual/perl-ExtUtils-Command-7.240.0-r999
 <virtual/perl-ExtUtils-Constant-0.230.0-r999
 <virtual/perl-ExtUtils-Install-2.40.0-r999
 <virtual/perl-ExtUtils-MakeMaker-7.240.0-r999
@@ -114,6 +115,7 @@
 >virtual/perl-Encode-2.880.0-r999
 >virtual/perl-Exporter-5.720.0-r999
 >virtual/perl-ExtUtils-CBuilder-0.280.225-r999
+>virtual/perl-ExtUtils-Command-7.240.0-r999
 >virtual/perl-ExtUtils-Constant-0.230.0-r999
 >virtual/perl-ExtUtils-Install-2.40.0-r999
 >virtual/perl-ExtUtils-MakeMaker-7.240.0-r999
@@ -205,6 +207,7 @@ perl-core/Digest-SHA
 perl-core/Encode
 perl-core/Exporter
 perl-core/ExtUtils-CBuilder
+perl-core/ExtUtils-Command
 perl-core/ExtUtils-Constant
 perl-core/ExtUtils-Install
 perl-core/ExtUtils-MakeMaker
