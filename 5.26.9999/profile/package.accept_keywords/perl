@@ -12,3 +12,4 @@
 =dev-perl/Test-Deep-1.126.0 ** # inc, 614340
 =dev-perl/Filter-1.570.0 ** # inc, 614350
 =dev-perl/Class-Inspector-1.310.0 ** # inc, 614394
+=dev-perl/Apache-LogFormat-Compiler-0.350.0 ** # inc, 613594
