@@ -7,6 +7,7 @@
 =dev-perl/CGI-Compile-0.210.0               perl-dot-in-inc
 =dev-perl/Digest-BubbleBabble-0.20.0-r1     perl-dot-in-inc
 =dev-perl/Data-FormValidator-4.850.0        perl-dot-in-inc
+=dev-perl/File-HomeDir-1.0.0-r1             perl-dot-in-inc
 =dev-perl/File-ShareDir-1.102.0             perl-dot-in-inc
 =dev-perl/Module-Refresh-0.170.0-r1         perl-dot-in-inc
 =dev-perl/Module-Runtime-0.14.0             perl-dot-in-inc
