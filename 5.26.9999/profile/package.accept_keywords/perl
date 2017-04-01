@@ -24,3 +24,4 @@
 =dev-perl/WWW-Form-UrlEncoded-0.240.0 ** # ^
 =dev-perl/WWW-Form-UrlEncoded-XS-0.240.0 ** # ^
 =dev-perl/HTTP-MultiPartParser-0.10.0 ** # ^
+=dev-perl/MRO-Compat-0.130.0 ** # inc, 613870
