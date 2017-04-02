@@ -32,3 +32,4 @@
 =dev-perl/List-MoreUtils-XS-0.418.0 ** # ^
 =dev-perl/B-Hooks-EndOfScope-0.200.0 ** # inc, 614466
 =dev-perl/Variable-Magic-0.610.0 ** # ^
+=dev-perl/Class-Method-Modifiers-2.120.0 ** # inc, 614508
