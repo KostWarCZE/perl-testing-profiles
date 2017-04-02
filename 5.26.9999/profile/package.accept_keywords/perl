@@ -33,3 +33,8 @@
 =dev-perl/B-Hooks-EndOfScope-0.200.0 ** # inc, 614466
 =dev-perl/Variable-Magic-0.610.0 ** # ^
 =dev-perl/Class-Method-Modifiers-2.120.0 ** # inc, 614508
+
+=dev-perl/Moo-2.3.0 **        # inc, 613592
+=dev-perl/Role-Tiny-2.0.5 **  # ^
+=dev-perl/Sub-Name-0.150.0 ** # ^
+=dev-perl/Sub-Quote-2.3.1 **  # ^
