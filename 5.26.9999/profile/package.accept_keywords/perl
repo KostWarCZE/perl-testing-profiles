@@ -43,3 +43,5 @@
 =dev-perl/Role-Tiny-2.0.5 **  # ^
 =dev-perl/Sub-Name-0.150.0 ** # ^
 =dev-perl/Sub-Quote-2.3.1 **  # ^
+
+=dev-perl/XML-NamespaceSupport-1.120.0 ** # inc, 614530
