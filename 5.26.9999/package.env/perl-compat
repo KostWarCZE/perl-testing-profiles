@@ -11,6 +11,7 @@
 =dev-perl/Digest-BubbleBabble-0.20.0-r1     perl-dot-in-inc
 =dev-perl/File-HomeDir-1.0.0-r1             perl-dot-in-inc
 =dev-perl/File-ShareDir-1.102.0             perl-dot-in-inc
+=dev-perl/MIME-Charset-1.9.3                perl-dot-in-inc
 =dev-perl/Module-Install-1.160.0            perl-dot-in-inc
 =dev-perl/Module-Refresh-0.170.0-r1         perl-dot-in-inc
 =dev-perl/Module-Runtime-0.14.0             perl-dot-in-inc
