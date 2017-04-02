@@ -15,15 +15,17 @@
 =dev-perl/Apache-LogFormat-Compiler-0.350.0 ** # inc, 613594
 =dev-perl/File-ShareDir-1.102.0 ** # inc, 614404
 =dev-perl/HTTP-Server-Simple-0.520.0 ** # inc, 614414
-=dev-perl/Plack-1.4.300 ** # inc, 613368
-=dev-perl/Cookie-Baker-XS-0.70.0 ** # ^
-=dev-perl/HTTP-Entity-Parser-0.190.0 ** # ^
-=dev-perl/Test-MockTime-HiRes-0.60.0 ** # ^
-=dev-perl/Cookie-Baker-0.70.0 ** # ^
-=dev-perl/JSON-MaybeXS-1.3.9 ** # ^
-=dev-perl/WWW-Form-UrlEncoded-0.240.0 ** # ^ & inc, 613400
+
+=dev-perl/Plack-1.4.300 **                  # inc, 613368
+=dev-perl/Cookie-Baker-XS-0.70.0 **         # ^
+=dev-perl/HTTP-Entity-Parser-0.190.0 **     # ^
+=dev-perl/Test-MockTime-HiRes-0.60.0 **     # ^
+=dev-perl/Cookie-Baker-0.70.0 **            # ^
+=dev-perl/JSON-MaybeXS-1.3.9 **             # ^
+=dev-perl/WWW-Form-UrlEncoded-0.240.0 **    # ^ & inc, 613400
 =dev-perl/WWW-Form-UrlEncoded-XS-0.240.0 ** # ^
-=dev-perl/HTTP-MultiPartParser-0.10.0 ** # ^
+=dev-perl/HTTP-MultiPartParser-0.10.0 **    # ^
+
 =dev-perl/MRO-Compat-0.130.0 ** # inc, 613870
 =dev-perl/Archive-Zip-1.590.0 ** # inc, 614430
 =dev-perl/File-Remove-1.570.0 ** # inc, 614438
