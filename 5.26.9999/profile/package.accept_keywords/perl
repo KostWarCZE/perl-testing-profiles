@@ -30,8 +30,10 @@
 =dev-perl/Archive-Zip-1.590.0 ** # inc, 614430
 =dev-perl/File-Remove-1.570.0 ** # inc, 614438
 =dev-perl/Module-ScanDeps-1.230.0 ** # inc, 614450
-=dev-perl/List-MoreUtils-0.418.0 ** # inc, 613866
-=dev-perl/List-MoreUtils-XS-0.418.0 ** # ^
+
+=dev-perl/List-MoreUtils-0.418.0 **     # inc, 613866
+=dev-perl/List-MoreUtils-XS-0.418.0 **  # ^
+
 =dev-perl/B-Hooks-EndOfScope-0.200.0 ** # inc, 614466
 =dev-perl/Variable-Magic-0.610.0 ** # ^
 =dev-perl/Class-Method-Modifiers-2.120.0 ** # inc, 614508
