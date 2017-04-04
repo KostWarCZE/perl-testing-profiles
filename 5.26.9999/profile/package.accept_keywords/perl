@@ -53,3 +53,5 @@
 =dev-perl/File-Find-Rule-Perl-1.150.0 ** # inc, 614650
 
 =dev-perl/Parse-RecDescent-1.967.14 ** # inc, 614614
+
+=dev-perl/local-lib-2.0.19 ** # inc breaks runtime, 614672
