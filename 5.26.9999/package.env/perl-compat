@@ -2,27 +2,41 @@
 # to make given Perl targets install
 # NOTE: This can suppress detecting of real bugs at runtime!
 =app-text/po4a-0.47                         perl-dot-in-inc
+=dev-perl/Algorithm-Dependency-1.110.0-r1   perl-dot-in-inc
+=dev-perl/AnyEvent-7.120.0                  perl-dot-in-inc
+=dev-perl/AnyEvent-I3-0.160.0               perl-dot-in-inc
+=dev-perl/App-perlbrew-0.780.0              perl-dot-in-inc
+=dev-perl/Array-Window-1.20.0-r1            perl-dot-in-inc
+=dev-perl/Audio-FLAC-Header-2.400.0-r1      perl-dot-in-inc
+=dev-perl/Authen-PAM-0.160.0-r1             perl-dot-in-inc
 =dev-perl/Authen-SASL-2.160.0-r1            perl-dot-in-inc
 =dev-perl/Authen-Simple-0.500.0             perl-dot-in-inc
 =dev-perl/B-Hooks-OP-Check-0.190.0-r1       perl-dot-in-inc
 =dev-perl/CGI-Compile-0.210.0               perl-dot-in-inc
 =dev-perl/Class-Accessor-Lite-0.80.0        perl-dot-in-inc
+=dev-perl/DBI-1.636.0                       perl-dot-in-inc
 =dev-perl/Data-FormValidator-4.850.0        perl-dot-in-inc
 =dev-perl/Digest-BubbleBabble-0.20.0-r1     perl-dot-in-inc
 =dev-perl/File-HomeDir-1.0.0-r1             perl-dot-in-inc
 =dev-perl/File-ShareDir-1.102.0             perl-dot-in-inc
+=dev-perl/IO-All-0.860.0                    perl-dot-in-inc
 =dev-perl/MIME-Charset-1.9.3                perl-dot-in-inc
 =dev-perl/Module-Install-1.160.0            perl-dot-in-inc
 =dev-perl/Module-Refresh-0.170.0-r1         perl-dot-in-inc
 =dev-perl/Module-Runtime-0.14.0             perl-dot-in-inc
 =dev-perl/Net-SSLeay-1.800.0                perl-dot-in-inc
+=dev-perl/PadWalker-2.200.0                 perl-dot-in-inc
+=dev-perl/Sub-Identify-0.120.0              perl-dot-in-inc
 =dev-perl/Sub-Uplevel-0.250.0               perl-dot-in-inc
+=dev-perl/Task-Weaken-1.40.0-r1             perl-dot-in-inc
+=dev-perl/Test-ClassAPI-1.60.0-r1           perl-dot-in-inc
+=dev-perl/Test-LeakTrace-0.150.0            perl-dot-in-inc
 =dev-perl/Test-TCP-2.170.0                  perl-dot-in-inc
 =dev-perl/Test-Time-0.40.0                  perl-dot-in-inc
-=dev-perl/Test-LeakTrace-0.150.0            perl-dot-in-inc
 =dev-perl/Unicode-EastAsianWidth-1.330.0-r1 perl-dot-in-inc
 =dev-perl/Unicode-LineBreak-2016.3.0        perl-dot-in-inc
 =dev-perl/XML-SAX-Base-1.80.0-r1            perl-dot-in-inc
+=dev-perl/YAML-LibYAML-0.630.0              perl-dot-in-inc
 =dev-perl/YAML-Syck-1.290.0                 perl-dot-in-inc
 =dev-perl/asa-1.30.0                        perl-dot-in-inc
 =dev-perl/libintl-perl-1.240.0              perl-dot-in-inc
@@ -34,3 +48,5 @@
 =sys-devel/automake-1.15-r1                 no-testing
 =sys-devel/make-4.2.1                       no-testing # Unescaped {
 =dev-perl/Regexp-Common-2013031301.0.0      no-testing # Unescaped {
+
+=www-apache/mod_perl-2.0.10                 no-testing # Unknown, 614684
