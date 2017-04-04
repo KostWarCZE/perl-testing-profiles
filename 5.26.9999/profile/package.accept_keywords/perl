@@ -45,3 +45,5 @@
 =dev-perl/Sub-Quote-2.3.1 **  # ^
 
 =dev-perl/XML-NamespaceSupport-1.120.0 ** # inc, 614530
+
+=dev-perl/autobox-2.850.0 ** # inc + compile, 614642
