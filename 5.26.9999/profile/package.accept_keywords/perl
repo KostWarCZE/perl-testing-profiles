@@ -51,3 +51,5 @@
 =dev-perl/namespace-clean-0.270.0 ** # inc, 614648
 
 =dev-perl/File-Find-Rule-Perl-1.150.0 ** # inc, 614650
+
+=dev-perl/Parse-RecDescent-1.967.14 ** # inc, 614614
