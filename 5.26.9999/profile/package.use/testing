@@ -4,3 +4,6 @@ sys-libs/db tcl
 media-libs/tiff jpeg
 net-misc/curl kerberos
 dev-lang/python sqlite
+x11-libs/pango X
+x11-libs/wxGTK tiff
+dev-libs/gobject-introspection cairo
