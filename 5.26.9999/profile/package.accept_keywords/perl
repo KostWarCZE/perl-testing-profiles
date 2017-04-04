@@ -49,3 +49,5 @@
 =dev-perl/autobox-2.850.0 ** # inc + compile, 614642
 
 =dev-perl/namespace-clean-0.270.0 ** # inc, 614648
+
+=dev-perl/File-Find-Rule-Perl-1.150.0 ** # inc, 614650
