@@ -57,3 +57,6 @@
 =dev-perl/local-lib-2.0.19 ** # inc breaks runtime, 614672
 
 =dev-perl/Mouse-2.4.9 ** # inc, 614788
+
+=dev-perl/Path-Tiny-0.104.0 **      # inc, 614804
+=dev-perl/Test-MockRandom-1.10.0 ** # ^
