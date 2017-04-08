@@ -60,3 +60,7 @@
 
 =dev-perl/Path-Tiny-0.104.0 **      # inc, 614804
 =dev-perl/Test-MockRandom-1.10.0 ** # ^
+
+=dev-perl/Clone-0.390.0 ** # inc, 614934
+
+=dev-perl/DateTime-Format-Strptime-1.700.0 ** # escaping, 614965
