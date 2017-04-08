@@ -22,8 +22,10 @@
 =dev-scheme/guile-1.8.8-r3 no-testing
 =dev-util/dejagnu-1.4.4-r3 no-testing
 =dev-vcs/mercurial-3.8.4 no-testing
+=media-libs/gd-2.2.4 no-testing # 608724
 =net-misc/rsync-3.1.2 no-testing
 =net-misc/wget-1.19.1-r1 no-testing
+=sci-biology/bioperl-network-1.6.9 no-testing # 502156
 =sys-apps/coreutils-8.25 no-testing
 =sys-apps/keyutils-1.5.9-r1 no-testing
 =sys-apps/man-db-2.7.6.1-r2 no-testing
@@ -34,4 +36,7 @@
 =sys-devel/llvm-3.7.1-r3 no-testing
 =sys-devel/make-4.2.1 no-testing
 =sys-libs/glibc-2.23-r3 no-testing
+
+# SLOW AS HELL THEN FAIL
+dev-db/mariadb no-testing
 sys-libs/db no-testing
