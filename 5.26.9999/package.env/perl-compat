@@ -15,9 +15,12 @@
 =dev-perl/Authen-SASL-2.160.0-r1            perl-dot-in-inc
 =dev-perl/Authen-Simple-0.500.0             perl-dot-in-inc
 =dev-perl/B-Hooks-OP-Check-0.190.0-r1       perl-dot-in-inc
+=dev-perl/Benchmark-Timer-0.710.700         perl-dot-in-inc
+=dev-perl/BSD-Resource-1.290.800            perl-dot-in-inc
 =dev-perl/CGI-Compile-0.210.0               perl-dot-in-inc
 =dev-perl/Class-Accessor-Lite-0.80.0        perl-dot-in-inc
 =dev-perl/DBI-1.636.0                       perl-dot-in-inc
+=dev-perl/DBD-mysql-4.41.0                  perl-dot-in-inc
 =dev-perl/Data-FormValidator-4.850.0        perl-dot-in-inc
 =dev-perl/Digest-BubbleBabble-0.20.0-r1     perl-dot-in-inc
 =dev-perl/File-HomeDir-1.0.0-r1             perl-dot-in-inc
@@ -25,6 +28,7 @@
 =dev-perl/HTML-Tree-5.30.0-r1               perl-dot-in-inc
 =dev-perl/IO-All-0.860.0                    perl-dot-in-inc
 =dev-perl/IPC-Run-0.940.0                   perl-dot-in-inc
+=dev-perl/Lexical-SealRequireHints-0.10.0   perl-dot-in-inc
 =dev-perl/MIME-Charset-1.9.3                perl-dot-in-inc
 =dev-perl/Module-Install-1.160.0            perl-dot-in-inc
 =dev-perl/Module-Refresh-0.170.0-r1         perl-dot-in-inc
@@ -39,6 +43,7 @@
 =dev-perl/Test-LeakTrace-0.150.0            perl-dot-in-inc
 =dev-perl/Test-TCP-2.170.0                  perl-dot-in-inc
 =dev-perl/Test-Time-0.40.0                  perl-dot-in-inc
+=dev-perl/Text-Password-Pronounceable-0.300.0-r1  perl-dot-in-inc
 =dev-perl/Unicode-EastAsianWidth-1.330.0-r1 perl-dot-in-inc
 =dev-perl/Unicode-LineBreak-2016.3.0        perl-dot-in-inc
 =dev-perl/Unicode-UTF8-0.600.0              perl-dot-in-inc
