@@ -17,18 +17,50 @@
 =dev-perl/B-Hooks-OP-Check-0.190.0-r1       perl-dot-in-inc
 =dev-perl/Benchmark-Timer-0.710.700         perl-dot-in-inc
 =dev-perl/BSD-Resource-1.290.800            perl-dot-in-inc
+=dev-perl/Cache-Simple-TimedExpiry-0.270.0-r1 perl-dot-in-inc
 =dev-perl/CGI-Compile-0.210.0               perl-dot-in-inc
+=dev-perl/CGI-PSGI-0.150.0-r1               perl-dot-in-inc
+=dev-perl/CQL-Parser-1.130.0                perl-dot-in-inc
+=dev-perl/CSS-Packer-2.0.0                  perl-dot-in-inc
+=dev-perl/Chart-Math-Axis-1.60.0-r1         perl-dot-in-inc
+=dev-perl/Class-Accessor-Grouped-0.100.120  perl-dot-in-inc
 =dev-perl/Class-Accessor-Lite-0.80.0        perl-dot-in-inc
-=dev-perl/DBI-1.636.0                       perl-dot-in-inc
+=dev-perl/Class-Adapter-1.80.0-r1           perl-dot-in-inc
+=dev-perl/Class-Autouse-2.10.0-r1           perl-dot-in-inc
+=dev-perl/Class-C3-Componentised-1.1.0-r1   perl-dot-in-inc
+=dev-perl/Class-Data-Accessor-0.40.40-r1    perl-dot-in-inc
+=dev-perl/Class-Default-1.510.0-r1          perl-dot-in-inc
+=dev-perl/Class-ReturnValue-0.550.0-r1      perl-dot-in-inc
+=dev-perl/Class-Spiffy-0.150.0-r1           perl-dot-in-inc
+=dev-perl/Class-Trigger-0.140.0-r1          perl-dot-in-inc
+=dev-perl/Clipboard-0.130.0-r2              perl-dot-in-inc
+=dev-perl/Compress-Bzip2-2.220.0            perl-dot-in-inc
+=dev-perl/Config-Crontab-1.400.0            perl-dot-in-inc
+=dev-perl/Context-Preserve-0.10.0-r1        perl-dot-in-inc
+=dev-perl/Convert-Binary-C-0.770.0          perl-dot-in-inc
+=dev-perl/Crypt-Cracklib-1.700.0-r1         perl-dot-in-inc
+=dev-perl/Crypt-DH-GMP-0.0.120              perl-dot-in-inc
+=dev-perl/Crypt-RSA-1.990.0-r1              perl-dot-in-inc
+=dev-perl/Crypt-SSLeay-0.720.0-r1           perl-dot-in-inc
+=dev-perl/Crypt-Twofish-2.170.0-r1          perl-dot-in-inc
+=dev-perl/Curses-UI-0.960.900-r1            perl-dot-in-inc
+=dev-perl/DBD-SQLite-1.500.0                perl-dot-in-inc
 =dev-perl/DBD-mysql-4.41.0                  perl-dot-in-inc
+=dev-perl/DBI-1.636.0                       perl-dot-in-inc
 =dev-perl/Data-FormValidator-4.850.0        perl-dot-in-inc
 =dev-perl/Digest-BubbleBabble-0.20.0-r1     perl-dot-in-inc
+=dev-perl/ExtUtils-PkgConfig-1.150.0        perl-dot-in-inc
+=dev-perl/ExtUtils-XSpp-0.180.0             perl-dot-in-inc
 =dev-perl/File-HomeDir-1.0.0-r1             perl-dot-in-inc
+=dev-perl/File-NFSLock-1.270.0              perl-dot-in-inc
 =dev-perl/File-ShareDir-1.102.0             perl-dot-in-inc
 =dev-perl/HTML-Tree-5.30.0-r1               perl-dot-in-inc
 =dev-perl/IO-All-0.860.0                    perl-dot-in-inc
 =dev-perl/IPC-Run-0.940.0                   perl-dot-in-inc
 =dev-perl/Lexical-SealRequireHints-0.10.0   perl-dot-in-inc
+=dev-perl/List-UtilsBy-0.100.0              perl-dot-in-inc
+=dev-perl/Math-BigInt-GMP-1.380.0           perl-dot-in-inc
+=dev-perl/Math-Pari-2.10.806.50-r1          perl-dot-in-inc
 =dev-perl/MIME-Charset-1.9.3                perl-dot-in-inc
 =dev-perl/Module-Install-1.160.0            perl-dot-in-inc
 =dev-perl/Module-Refresh-0.170.0-r1         perl-dot-in-inc
@@ -36,6 +68,7 @@
 =dev-perl/MouseX-Types-0.60.0               perl-dot-in-inc
 =dev-perl/Net-SSLeay-1.800.0                perl-dot-in-inc
 =dev-perl/PadWalker-2.200.0                 perl-dot-in-inc
+=dev-perl/Regexp-RegGrp-2.0.0               perl-dot-in-inc
 =dev-perl/Sub-Identify-0.120.0              perl-dot-in-inc
 =dev-perl/Sub-Uplevel-0.250.0               perl-dot-in-inc
 =dev-perl/Task-Weaken-1.40.0-r1             perl-dot-in-inc
@@ -53,6 +86,7 @@
 =dev-perl/asa-1.30.0                        perl-dot-in-inc
 =dev-perl/libintl-perl-1.240.0              perl-dot-in-inc
 =dev-perl/prefork-1.40.0-r1                 perl-dot-in-inc
+=sci-mathematics/pari-2.3.5                 perl-dot-in-inc #615016
 
 # This is a list of packages that are known broken under testing
 # for perl so that they're not pointlessly retested.
@@ -60,5 +94,6 @@
 =sys-devel/automake-1.15-r1                 no-testing
 =sys-devel/make-4.2.1                       no-testing # Unescaped {
 =dev-perl/Regexp-Common-2013031301.0.0      no-testing # Unescaped {
+=dev-perl/Class-MakeMethods-1.10.0-r1       no-testing # Unescaped {, 615120
 
 =www-apache/mod_perl-2.0.10                 no-testing # Unknown, 614684

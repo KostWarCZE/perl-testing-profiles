@@ -8,3 +8,5 @@ x11-libs/pango X
 x11-libs/wxGTK tiff
 dev-libs/gobject-introspection cairo
 sci-biology/bioperl minimal
+media-libs/gd png jpeg # dev-perl/Chart
+dev-perl/GD png jpeg # dev-perl/Chart

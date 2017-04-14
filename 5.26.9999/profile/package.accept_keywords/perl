@@ -64,3 +64,15 @@
 =dev-perl/Clone-0.390.0 ** # inc, 614934
 
 =dev-perl/DateTime-Format-Strptime-1.700.0 ** # escaping, 614965
+
+=dev-perl/MIME-tools-5.509.0 ** # inc, 615084
+
+=dev-perl/Class-C3-0.310.0 ** # inc, 615100
+
+=dev-perl/Class-C3-XS-0.140.0 ** # inc, 615128
+
+=dev-perl/Cache-2.110.0 ** # test randomly fail, 615134
+
+=dev-perl/Chart-2.4.10 ** # defined(@array), 615146
+
+=dev-perl/SQL-Abstract-1.840.0 ** # inc, 615224
