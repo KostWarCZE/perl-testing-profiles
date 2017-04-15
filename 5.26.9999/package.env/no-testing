@@ -36,6 +36,7 @@
 =sys-devel/llvm-3.7.1-r3 no-testing
 =sys-devel/make-4.2.1 no-testing
 =sys-libs/glibc-2.23-r3 no-testing
+=dev-db/postgresql-9.5.5 no-testing
 
 # SLOW AS HELL THEN FAIL
 dev-db/mariadb no-testing

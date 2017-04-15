@@ -47,7 +47,16 @@
 =dev-perl/DBD-SQLite-1.500.0                perl-dot-in-inc
 =dev-perl/DBD-mysql-4.41.0                  perl-dot-in-inc
 =dev-perl/DBI-1.636.0                       perl-dot-in-inc
+=dev-perl/DBI-Shell-11.950.0-r1             perl-dot-in-inc
+=dev-perl/DBIx-SearchBuilder-1.660.0        perl-dot-in-inc
+=dev-perl/Data-AMF-0.90.0-r1                perl-dot-in-inc
 =dev-perl/Data-FormValidator-4.850.0        perl-dot-in-inc
+=dev-perl/Data-ICal-0.220.0                 perl-dot-in-inc
+=dev-perl/Date-Extract-0.50.0               perl-dot-in-inc
+=dev-perl/Data-ObjectDriver-0.140.0         perl-dot-in-inc
+=dev-perl/Data-Random-0.80.0                perl-dot-in-inc
+=dev-perl/Data-ShowTable-4.600.0            perl-dot-in-inc
+=dev-perl/Devel-SmallProf-2.20.0-r2         perl-dot-in-inc
 =dev-perl/Digest-BubbleBabble-0.20.0-r1     perl-dot-in-inc
 =dev-perl/ExtUtils-PkgConfig-1.150.0        perl-dot-in-inc
 =dev-perl/ExtUtils-XSpp-0.180.0             perl-dot-in-inc
