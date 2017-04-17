@@ -82,3 +82,9 @@
 =dev-perl/Data-ObjectDriver-0.140.0 ** # math/int , 615600
 
 =dev-perl/DateTime-Format-W3CDTF-0.70.0 ** # inc, 614962
+
+=dev-perl/File-Next-1.160.0 ** # Posix, 615690
+
+=dev-perl/Crypt-OpenPGP-1.120.0 ** # inc, 615794
+
+=dev-perl/PAR-1.14.0-r1 ** # inc, 615800
