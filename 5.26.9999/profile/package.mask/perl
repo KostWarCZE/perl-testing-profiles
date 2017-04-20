@@ -8,7 +8,7 @@
 <virtual/perl-Attribute-Handlers-0.990.0-r999
 <virtual/perl-AutoLoader-5.740.0-r999
 <virtual/perl-B-Debug-1.240.0-r999
-<virtual/perl-CPAN-2.170.0-r999
+<virtual/perl-CPAN-2.180.0-r999
 <virtual/perl-CPAN-Meta-2.150.10-r999
 <virtual/perl-CPAN-Meta-Requirements-2.140.0-r999
 <virtual/perl-CPAN-Meta-YAML-0.18.0-r999
@@ -50,7 +50,7 @@
 <virtual/perl-Math-BigRat-0.261.100-r999
 <virtual/perl-Math-Complex-1.590.100-r999
 <virtual/perl-Memoize-1.30.100_rc-r999
-<virtual/perl-Module-CoreList-5.201.703.200-r999
+<virtual/perl-Module-CoreList-5.201.704.200-r999
 <virtual/perl-Module-Load-0.320.0-r999
 <virtual/perl-Module-Load-Conditional-0.680.0-r999
 <virtual/perl-Module-Loaded-0.80.0-r999
@@ -63,7 +63,7 @@
 <virtual/perl-Pod-Parser-1.630.0-r999
 <virtual/perl-Pod-Perldoc-3.280.0-r999
 <virtual/perl-Pod-Simple-3.350.0-r999
-<virtual/perl-Safe-2.390.0-r999
+<virtual/perl-Safe-2.400.0-r999
 <virtual/perl-Scalar-List-Utils-1.460.200_rc-r999
 <virtual/perl-Socket-2.20.30_rc-r999
 <virtual/perl-Storable-2.620.0-r999
@@ -82,14 +82,14 @@
 <virtual/perl-Time-Piece-1.310.0-r999
 <virtual/perl-Unicode-Collate-1.190.0-r999
 <virtual/perl-Unicode-Normalize-1.250.0-r999
-<virtual/perl-XSLoader-0.260.0-r999
+<virtual/perl-XSLoader-0.270.0-r999
 <virtual/perl-autodie-2.290.0-r999
 <virtual/perl-bignum-0.470.0-r999
 <virtual/perl-if-0.60.600-r999
 <virtual/perl-libnet-3.100.0-r999
 <virtual/perl-parent-0.236.0-r999
 <virtual/perl-podlators-4.90.0-r999
-<virtual/perl-threads-shared-1.550.0-r999
+<virtual/perl-threads-shared-1.560.0-r999
 <virtual/perl-version-0.991.700-r999
 
 # If portage tries to unmask one of these
@@ -99,7 +99,7 @@
 >virtual/perl-Attribute-Handlers-0.990.0-r999
 >virtual/perl-AutoLoader-5.740.0-r999
 >virtual/perl-B-Debug-1.240.0-r999
->virtual/perl-CPAN-2.170.0-r999
+>virtual/perl-CPAN-2.180.0-r999
 >virtual/perl-CPAN-Meta-2.150.10-r999
 >virtual/perl-CPAN-Meta-Requirements-2.140.0-r999
 >virtual/perl-CPAN-Meta-YAML-0.18.0-r999
@@ -141,7 +141,7 @@
 >virtual/perl-Math-BigRat-0.261.100-r999
 >virtual/perl-Math-Complex-1.590.100-r999
 >virtual/perl-Memoize-1.30.100_rc-r999
->virtual/perl-Module-CoreList-5.201.703.200-r999
+>virtual/perl-Module-CoreList-5.201.704.200-r999
 >virtual/perl-Module-Load-0.320.0-r999
 >virtual/perl-Module-Load-Conditional-0.680.0-r999
 >virtual/perl-Module-Loaded-0.80.0-r999
@@ -154,7 +154,7 @@
 >virtual/perl-Pod-Parser-1.630.0-r999
 >virtual/perl-Pod-Perldoc-3.280.0-r999
 >virtual/perl-Pod-Simple-3.350.0-r999
->virtual/perl-Safe-2.390.0-r999
+>virtual/perl-Safe-2.400.0-r999
 >virtual/perl-Scalar-List-Utils-1.460.200_rc-r999
 >virtual/perl-Socket-2.20.30_rc-r999
 >virtual/perl-Storable-2.620.0-r999
@@ -173,14 +173,14 @@
 >virtual/perl-Time-Piece-1.310.0-r999
 >virtual/perl-Unicode-Collate-1.190.0-r999
 >virtual/perl-Unicode-Normalize-1.250.0-r999
->virtual/perl-XSLoader-0.260.0-r999
+>virtual/perl-XSLoader-0.270.0-r999
 >virtual/perl-autodie-2.290.0-r999
 >virtual/perl-bignum-0.470.0-r999
 >virtual/perl-if-0.60.600-r999
 >virtual/perl-libnet-3.100.0-r999
 >virtual/perl-parent-0.236.0-r999
 >virtual/perl-podlators-4.90.0-r999
->virtual/perl-threads-shared-1.550.0-r999
+>virtual/perl-threads-shared-1.560.0-r999
 >virtual/perl-version-0.991.700-r999
 
 # If portage tries to unmask one of these
