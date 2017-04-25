@@ -1,0 +1,9 @@
+=dev-perl/Data-Validate-Domain-0.140.0
+=dev-perl/DateTime-1.420.0
+=dev-perl/DateTime-Format-Strptime-1.730.0
+=dev-perl/DateTime-Locale-1.160.0
+=dev-perl/DateTime-TimeZone-2.110.0
+=dev-perl/Math-BigInt-GMP-1.600.200
+=dev-perl/Params-ValidationCompiler-0.240.0
+=dev-perl/Test2-Plugin-NoWarnings-0.50.0
+=dev-perl/Test2-Suite-0.0.60

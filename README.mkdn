@@ -8,7 +8,7 @@
   cd /etc/portage
   mkdir profile
   cd profile
-  for i in package.{accept_keywords,mask,provided,use}; do
+  for i in package.{accept_keywords,mask,unmask,provided,use}; do
     (
       mkdir -p "${i}" && \
         cd "${i}"     && \
