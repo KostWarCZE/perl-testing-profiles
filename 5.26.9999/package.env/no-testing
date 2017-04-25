@@ -37,6 +37,10 @@
 =sys-devel/make-4.2.1 no-testing
 =sys-libs/glibc-2.23-r3 no-testing
 =dev-db/postgresql-9.5.5 no-testing
+=dev-util/strace-4.13 no-testing #570874
+=www-servers/tornado-4.4.2-r1 no-testing # 593782
+=dev-python/testtools-1.8.0 no-testing # 563214
+=media-libs/openjpeg-2.1.1_p20160922 no-testing # random failures
 
 # SLOW AS HELL THEN FAIL
 dev-db/mariadb no-testing
