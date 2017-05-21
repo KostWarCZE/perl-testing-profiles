@@ -50,7 +50,7 @@
 <virtual/perl-Math-BigRat-0.261.100-r999
 <virtual/perl-Math-Complex-1.590.100-r999
 <virtual/perl-Memoize-1.30.100_rc-r999
-<virtual/perl-Module-CoreList-5.201.704.200-r999
+<virtual/perl-Module-CoreList-5.201.705.200-r999
 <virtual/perl-Module-Load-0.320.0-r999
 <virtual/perl-Module-Load-Conditional-0.680.0-r999
 <virtual/perl-Module-Loaded-0.80.0-r999
@@ -141,7 +141,7 @@
 >virtual/perl-Math-BigRat-0.261.100-r999
 >virtual/perl-Math-Complex-1.590.100-r999
 >virtual/perl-Memoize-1.30.100_rc-r999
->virtual/perl-Module-CoreList-5.201.704.200-r999
+>virtual/perl-Module-CoreList-5.201.705.200-r999
 >virtual/perl-Module-Load-0.320.0-r999
 >virtual/perl-Module-Load-Conditional-0.680.0-r999
 >virtual/perl-Module-Loaded-0.80.0-r999
