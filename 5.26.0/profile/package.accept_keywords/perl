@@ -1,0 +1,9 @@
+=dev-lang/perl-5.26.0 **
+=app-text/po4a-0.47 **          # Unescaped {
+=dev-perl/Net-DNS-1.90.0 **     # inc, 613720
+=dev-perl/Plack-1.4.300 **      # inc, 613368
+
+=dev-perl/MIME-tools-5.509.0 ** # inc, 615084
+=dev-perl/Chart-2.4.10 ** # defined(@array), 615146
+=sys-devel/autoconf-2.69-r3 ** # unescaped { # 613790
+=dev-perl/glib-perl-1.325.0 ** # inc, 616916
