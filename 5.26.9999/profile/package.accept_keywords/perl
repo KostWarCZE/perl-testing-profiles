@@ -1,90 +1,12 @@
 =dev-lang/perl-5.26.9999 **
 =sys-devel/automake-1.15-r1 **  # Unescaped {
 =app-text/po4a-0.47 **          # Unescaped {
-=dev-perl/Config-Any-0.290.0 ** # inc, 613358
-=dev-perl/Data-FormValidator-4.850.0 # CGI.pm
-=dev-perl/Devel-Symdump-2.180.0 ** # inc, 613362
-=dev-perl/Carp-Clan-6.60.0 **   # Unescaped { , 614206
-=dev-perl/Net-DNS-1.90.0 **  # inc, 613720
-=dev-perl/Digest-GOST-0.60.0 ** # Net-DNS
-=dev-perl/Crypt-OpenSSL-DSA-0.150.0-r1 ** # Net-DNS
-=dev-perl/Net-DNS-SEC-1.20.0 ** # Net-DNS
-=dev-perl/Test-Deep-1.126.0 ** # inc, 614340
-=dev-perl/Filter-1.570.0 ** # inc, 614350
-=dev-perl/Class-Inspector-1.310.0 ** # inc, 614394
-=dev-perl/Apache-LogFormat-Compiler-0.350.0 ** # inc, 613594
-=dev-perl/File-ShareDir-1.102.0 ** # inc, 614404
-=dev-perl/HTTP-Server-Simple-0.520.0 ** # inc, 614414
-
-=dev-perl/Plack-1.4.300 **                  # inc, 613368
-=dev-perl/Cookie-Baker-XS-0.70.0 **         # ^
-=dev-perl/HTTP-Entity-Parser-0.190.0 **     # ^
-=dev-perl/Test-MockTime-HiRes-0.60.0 **     # ^
-=dev-perl/Cookie-Baker-0.70.0 **            # ^
-=dev-perl/JSON-MaybeXS-1.3.9 **             # ^
-=dev-perl/WWW-Form-UrlEncoded-0.240.0 **    # ^ & inc, 613400
-=dev-perl/WWW-Form-UrlEncoded-XS-0.240.0 ** # ^
-=dev-perl/HTTP-MultiPartParser-0.10.0 **    # ^
-
-=dev-perl/MRO-Compat-0.130.0 ** # inc, 613870
-=dev-perl/Archive-Zip-1.590.0 ** # inc, 614430
-=dev-perl/File-Remove-1.570.0 ** # inc, 614438
-=dev-perl/Module-ScanDeps-1.230.0 ** # inc, 614450
-
-=dev-perl/List-MoreUtils-0.418.0 **     # inc, 613866
-=dev-perl/List-MoreUtils-XS-0.418.0 **  # ^
-
-=dev-perl/B-Hooks-EndOfScope-0.200.0 ** # inc, 614466
-=dev-perl/Variable-Magic-0.610.0 **     # ^
-
-=dev-perl/Class-Method-Modifiers-2.120.0 ** # inc, 614508
-
-=dev-perl/Moo-2.3.0 **        # inc, 613592
-=dev-perl/Role-Tiny-2.0.5 **  # ^
-=dev-perl/Sub-Name-0.150.0 ** # ^
-=dev-perl/Sub-Quote-2.3.1 **  # ^
-
-=dev-perl/XML-NamespaceSupport-1.120.0 ** # inc, 614530
-
-=dev-perl/autobox-2.850.0 ** # inc + compile, 614642
-
-=dev-perl/namespace-clean-0.270.0 ** # inc, 614648
-
-=dev-perl/File-Find-Rule-Perl-1.150.0 ** # inc, 614650
-
-=dev-perl/Parse-RecDescent-1.967.14 ** # inc, 614614
-
-=dev-perl/local-lib-2.0.19 ** # inc breaks runtime, 614672
-
-=dev-perl/Mouse-2.4.9 ** # inc, 614788
-
-=dev-perl/Path-Tiny-0.104.0 **      # inc, 614804
-=dev-perl/Test-MockRandom-1.10.0 ** # ^
-
-=dev-perl/Clone-0.390.0 ** # inc, 614934
-
-=dev-perl/DateTime-Format-Strptime-1.700.0 ** # escaping, 614965
+=dev-perl/Net-DNS-1.90.0 **     # inc, 613720
+=dev-perl/Plack-1.4.300 **      # inc, 613368
 
 =dev-perl/MIME-tools-5.509.0 ** # inc, 615084
-
-=dev-perl/Class-C3-0.310.0 ** # inc, 615100
-
-=dev-perl/Class-C3-XS-0.140.0 ** # inc, 615128
-
-=dev-perl/Cache-2.110.0 ** # test randomly fail, 615134
-
 =dev-perl/Chart-2.4.10 ** # defined(@array), 615146
 
-=dev-perl/SQL-Abstract-1.840.0 ** # inc, 615224
+=sys-devel/autoconf-2.69-r3 ** # unescaped { # 613790
 
-=dev-perl/Text-CSV_XS-1.280.0 ** # inc, 613582
-
-=dev-perl/Data-ObjectDriver-0.140.0 ** # math/int , 615600
-
-=dev-perl/DateTime-Format-W3CDTF-0.70.0 ** # inc, 614962
-
-=dev-perl/File-Next-1.160.0 ** # Posix, 615690
-
-=dev-perl/Crypt-OpenPGP-1.120.0 ** # inc, 615794
-
-=dev-perl/PAR-1.14.0-r1 ** # inc, 615800
+=dev-perl/glib-perl-1.325.0 ** # inc, 616916
