@@ -10,3 +10,4 @@ dev-libs/gobject-introspection cairo
 sci-biology/bioperl minimal
 media-libs/gd png jpeg # dev-perl/Chart
 dev-perl/GD png jpeg # dev-perl/Chart
+app-text/ghostscript-gpl tiff # app-text/qpdf[test]

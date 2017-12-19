@@ -1,5 +1,4 @@
 =dev-lang/perl-5.26.9999 **
-=sys-devel/automake-1.15-r1 **  # Unescaped {
 =app-text/po4a-0.47 **          # Unescaped {
 =dev-perl/Net-DNS-1.90.0 **     # inc, 613720
 =dev-perl/Plack-1.4.300 **      # inc, 613368

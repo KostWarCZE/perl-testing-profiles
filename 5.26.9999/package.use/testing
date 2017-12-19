@@ -1,0 +1,6 @@
+# Packages that need extra use flags for testing to work
+# with REQUIRED_USE
+sys-libs/db tcl
+media-libs/tiff jpeg
+net-misc/curl kerberos
+dev-lang/python sqlite
