@@ -2,7 +2,7 @@
 <dev-lang/perl-5.28
 
 # Portage Shouldn't be upgrading past 5.28!
->dev-plang/perl-5.28.9998
+>dev-lang/perl-5.28.9998
 
 # If portage tries to unmask one of these
 # Make sure there's a relevant perl-core/* first.
